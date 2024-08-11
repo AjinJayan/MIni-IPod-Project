@@ -1,5 +1,8 @@
 # IPod Mini Project
 
+https://github.com/user-attachments/assets/01924f61-2077-4746-a044-d298d0b31210
+
+
 ## Build With:
 * HTML
 * CSS
