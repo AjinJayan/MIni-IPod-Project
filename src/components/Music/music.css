@@ -1,0 +1,51 @@
+/* .music {
+    background-color: aliceblue;
+    width: 100%;
+    height: 100%;
+    position: relative;
+
+    img {
+        width: 35%;
+        position: absolute;
+        left: 50%;
+        top: 50%;
+        transform: translate(-50%, -50%);
+    }
+
+    .title {
+        position: absolute;
+        left: 50%;
+        top: 75%;
+        transform: translate(-50%, -50%);
+    }
+} */
+
+.musicSubMenu {
+    background-color: rgb(247, 208, 208);
+    position: absolute;
+    width: 50%;
+    height: 345px;
+    border-top-left-radius: 30px;
+}
+
+.menuOptions {
+    height: 72.2px;
+    background-color: rgb(245, 155, 155);
+    /* position: relative; */
+
+    display: flex;
+    align-items: center;
+    left: 30px;
+    padding-left: 30px;
+
+    img {
+        width: 15px;
+        margin-left: 88px;
+        position: absolute;
+    }
+
+}
+
+.selectedOption {
+    background-color: rgb(247, 111, 111);
+}
